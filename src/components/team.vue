@@ -7,8 +7,8 @@
                 <h4>Louis Gauthier</h4>
             </div>
             <div class="card-team">
-                <img src="../assets/FIdZADrVcAE89p1.jpg" alt="">
-                <h4>name</h4>
+                <img src="../assets/e95a647a98ed9f5e377b34e0fd53b7a2.jpg" alt="">
+                <h4>Manon Gardin</h4>
             </div>
             <div class="card-team">
                 <img src="../assets/46b187ac584cdfe4f50f49c719611a06.jpg" alt="">
@@ -23,8 +23,8 @@
                 <h4>Raphaël Castelnau</h4>
             </div>
             <div class="card-team">
-                <img src="../assets/FIdZADrVcAE89p1.jpg" alt="">
-                <h4>name</h4>
+                <img src="../assets/31b9915ef9728353c9a119f818a592f4.jpg" alt="">
+                <h4>Christophe Zheng</h4>
             </div>
         </div>
     </section>

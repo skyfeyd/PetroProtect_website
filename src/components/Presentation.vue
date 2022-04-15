@@ -4,13 +4,12 @@
     <div class="Presentation">
         <div class="left-pres">
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non venenatis nisl. Nunc ac dapibus ex. Integer ante nisi, luctus sollicitudin nulla sed, consectetur hendrerit diam. Vivamus nec justo at sem elementum pharetra nec sit amet mauris. Aenean dui metus, sollicitudin eget pretium et, vulputate in tellus. Sed vitae hendrerit tellus. Curabitur ut ipsum odio. Praesent sed ex a est egestas ornare at vehicula elit. Mauris ac est malesuada, pretium metus non, varius purus.
-
+                Le but de Petroprotect est d’assurer le fait qu’il y ait le moins de dégâts sur l’environnement causé par les plateformes pétrolières, d’assurer des conseils pour les plateformes en fin de vie par exemple, le démantèlement des plateformes pétrolières coûtent chères, sont extrêmement polluants à cause de la logistique mis en place pour le va et vient des cargos, les pièces plus petites qui peuvent tomber, les résidus conséquents de pétroles ou de produits chimiques. On donnera les meilleurs solutions pour chaque plateformes , car toutes les plateformes sont différentes et surtout un impact différent sur l’écosystème qui l’entoure .
             </p>
         </div>
         <div class="right-pres">
-            <span class="down"></span>
-            <span class="up"></span>
+            <img class="down" src="../assets/0e30b22c1ad5a11ea45aeb2113fd1ccb.jpg">
+            <img class="up" src="../assets/5d0d91b4a8088bc848212a424c5a4962.jpg">
         </div>
     </div>
 </section>
@@ -58,24 +57,24 @@
 .up{
     width: 376px;
     height: 194px;
-    background-color: #E28989;
     border-radius: 43px;
     border: none;
     position: absolute;
     top: 0;
     right: 0;
     z-index: 10;
+    object-fit: cover;
 }
 
 .down{
     width: 376px;
     height: 230px;
-    background-color: #50B9F3;
     border-radius: 60px;
     border: none;
     position: absolute;
     bottom: 0;
     left: 0;
     z-index: 20;
+    object-fit: cover;
 }
 </style>

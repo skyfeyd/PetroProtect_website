@@ -10,7 +10,6 @@ import FooterVue from "./components/footer.vue"
 <template>
   <header>
     <NavBarVue></NavBarVue>
-    <img src="../assets/platform.jpg" alt="">
   </header>
     <MainVue id="Main"></MainVue>
     <PresentationVue id="Presentation"></PresentationVue>

@@ -4,9 +4,9 @@
 
 <template>
     <section class="main-presentation">
-        <!--<img src="../assets/platform.jpg" alt="">-->
-        <span class="bg-1" v-if="count == 1"></span>
-        <span class="bg-2" v-if="count == 2"></span>
+        <img class="bg" src="../assets/e53d035ddb22ce3764f5e39a45500999.jpg" alt="">
+        <img class="bg-1" v-if="count == 1" src="../assets/07e7a8dd10b8521d06ae69355685cfc5.jpg">
+        <img class="bg-2" v-if="count == 2" src="../assets/">
         <span class="bg-3" v-if="count == 3"></span>
         <div class="text">
         <h1>Lorem<br> ipsum<br> in dolores</h1>
@@ -27,7 +27,6 @@
     height: 85vh;
     background-color:lightgrey;
     position: relative;
-    margin-top: -20px;
 }
 img{
     height: 100%;
@@ -69,14 +68,22 @@ h1{
   
 }
 
+.bg{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+
 .bg-1{
     width: 100%;
     height: 100%;
-    background-color:orange;
     display: flex;
     position: absolute;
     z-index: 10;
     transition: 300ms ease-in-out;
+    object-fit: cover;
 }
 
 .bg-2{
