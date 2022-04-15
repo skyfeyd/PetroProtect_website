@@ -4,7 +4,7 @@
     <div class="Presentation">
         <div class="left-pres">
             <p>
-                Le but de Petroprotect est d’assurer le fait qu’il y ait le moins de dégâts sur l’environnement causé par les plateformes pétrolières, d’assurer des conseils pour les plateformes en fin de vie par exemple, le démantèlement des plateformes pétrolières coûtent chères, sont extrêmement polluants à cause de la logistique mis en place pour le va et vient des cargos, les pièces plus petites qui peuvent tomber, les résidus conséquents de pétroles ou de produits chimiques. On donnera les meilleurs solutions pour chaque plateformes , car toutes les plateformes sont différentes et surtout un impact différent sur l’écosystème qui l’entoure .
+                Le but de Petroprotect est d’assurer le fait qu’il y ait le moins de dégâts sur l’environnement causés par les plateformes pétrolières et d’assurer des conseils pour les plateformes en fin de vie. Le démantèlement des plateformes pétrolières coûte cher, est extrêmement polluant à cause de la logistique mis en place pour le va et vient des cargos, les pièces plus petites qui peuvent tomber et les résidus conséquents de pétroles ou de produits chimiques. On donnera les meilleurs solutions pour chaque plateforme, car toutes les plateformes sont différentes et surtout ont un impact différent sur l’écosystème qui l’entoure.
             </p>
         </div>
         <div class="right-pres">
