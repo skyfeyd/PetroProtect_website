@@ -6,7 +6,7 @@
     <section class="main-presentation">
         <img class="bg" src="../assets/e53d035ddb22ce3764f5e39a45500999.jpg" alt="">
         <img class="bg-1" v-if="count == 1" src="../assets/07e7a8dd10b8521d06ae69355685cfc5.jpg">
-        <img class="bg-2" v-if="count == 2" src="../assets/">
+        <img class="bg-2" v-if="count == 2" src="">
         <span class="bg-3" v-if="count == 3"></span>
         <div class="text">
         <h1>Lorem<br> ipsum<br> in dolores</h1>
